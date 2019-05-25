@@ -2,7 +2,7 @@
 
 ## Comparison
 
-<img src="attachments/387177950/387177257.png" width="600"/><br/>
+<img src="attachments/387177950/387177257.png" width="800"/><br/>
 
 |REST|GraphQL|
 |-----|------|
